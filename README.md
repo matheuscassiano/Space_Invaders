@@ -1,4 +1,8 @@
 # Space Invaders
+![Status](https://img.shields.io/badge/status-development-succes.svg)
+![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
+![Status](https://img.shields.io/badge/windows-stable-succes.svg)
+
 Versão do clássico jogo de fliperama programado em C com a biblioteca Allegro4
 
 ## Pré-requisitos para editar o codigo
